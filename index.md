@@ -15,7 +15,7 @@ Here you can find information about our final project for ELEC 327.
 
 [**Paintball Report**](https://drive.google.com/file/d/1ZXViKgLxG9Bi5oHh3lvh5zfOqg6ea6e9/view?usp=sharing)  
 
-[**Paintball Code**](https://github.com/yourusername/kemereshoe)
+[**Paintball Code**](https://github.com/jhlebeau/paintball/tree/main/paintball_game_code)
 
 [**Paintball Commercial**](https://drive.google.com/file/d/12VxLu3tcGC_b2Epxxrvyt3qalPmeh8Qs/view?usp=sharing)
 
